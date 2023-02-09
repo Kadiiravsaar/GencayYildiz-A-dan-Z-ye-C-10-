@@ -23,5 +23,4 @@
 
 // fakat null değeri almasını istersek nullable operatörü yani ? işareti kullanılmalı(int?) bu şartlar sağlanırsa kullanılır
 
-
 #endregion

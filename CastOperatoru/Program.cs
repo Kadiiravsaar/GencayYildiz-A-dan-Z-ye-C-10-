@@ -22,5 +22,5 @@
 // bazı atama operatörleri sadece null olabilenler ile çalışır örneğin "is null, as"
 
 // fakat null değeri almasını istersek nullable operatörü yani ? işareti kullanılmalı(int?) bu şartlar sağlanırsa kullanılır
-
+// burası degişti
 #endregion

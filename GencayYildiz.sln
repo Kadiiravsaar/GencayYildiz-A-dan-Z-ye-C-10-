@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TernaryOperatoru", "Ternary
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CastOperatoru", "CastOperatoru\CastOperatoru.csproj", "{24C223C7-D9A1-487E-AD24-4BDE6E04E32E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkisKontrolMekanizmalari", "AkisKontrolMekanizmalari\AkisKontrolMekanizmalari.csproj", "{AF204061-A9A7-40B4-9201-251D9971E0E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkisKontrolMekanizmalari", "AkisKontrolMekanizmalari\AkisKontrolMekanizmalari.csproj", "{AF204061-A9A7-40B4-9201-251D9971E0E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataKontrolMekanizmalari", "HataKontrolMekanizmalari\HataKontrolMekanizmalari.csproj", "{371C6911-75AD-4F52-87FA-3BA2AA5E5519}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{AF204061-A9A7-40B4-9201-251D9971E0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF204061-A9A7-40B4-9201-251D9971E0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF204061-A9A7-40B4-9201-251D9971E0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{371C6911-75AD-4F52-87FA-3BA2AA5E5519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371C6911-75AD-4F52-87FA-3BA2AA5E5519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371C6911-75AD-4F52-87FA-3BA2AA5E5519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371C6911-75AD-4F52-87FA-3BA2AA5E5519}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

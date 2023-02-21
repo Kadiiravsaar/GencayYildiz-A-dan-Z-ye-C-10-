@@ -12,7 +12,6 @@
 //Console.WriteLine(match.Success); // doğru ise true dönecektir.
 
 #endregion
-
 #region Ders 347 \ Operatörü
 
 // \ : belirli karakter gruplarını içermek istiyorsak kullanırız. Tek başına kullanılmaz aşağıda tanımladığı gibi kullanılır
